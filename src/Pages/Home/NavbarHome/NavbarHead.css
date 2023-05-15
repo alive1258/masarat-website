@@ -1,0 +1,8 @@
+.homeheadbg{
+    background-image: url('../../../assets/image/headbg.jpg'),url('../../../assets/image/hand.jpg');
+    background-position: left top, right bottom;
+    background-repeat: no-repeat, repeat;
+ 
+ 
+    /* object-fit: cover; */
+}
